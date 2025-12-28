@@ -7,6 +7,8 @@ Schematic
 
 PCB
 <img width="583" height="562" alt="PCB" src="https://github.com/user-attachments/assets/123faf46-4930-4e25-a3f8-f6f47b1eb655" />
+
+
 How my 3d printed parts fit together before all the components
 <img width="718" height="542" alt="Assembled Case without components" src="https://github.com/user-attachments/assets/f60fcdf0-aeca-47da-b1b2-88ae29d438b2" />
 
