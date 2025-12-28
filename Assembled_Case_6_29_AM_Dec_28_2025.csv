@@ -1,0 +1,11 @@
+Part Name,Assembled Case
+Working BOM,"as of December 28, 2025 at 6:29:58 AM UTC"
+Exported by,abhinavkm784@gmail.com
+Time of Export,"6:29 AM Dec 28, 2025"
+
+,Part Number,Part Name,Revision/Version,Description,Item Number,Lifecycle,Revision,State,Quantity,Material,Change Order
+,2025-12-27-19-04-29-982,Assembled Case,,,,,,Working,1,,
+1,hackCLUB 1,hackCLUB PCB,,KiCad electronic assembly,,,,Working,1,,
+1.1,hackCLUB_PCB,hackCLUB_PCB,,,,,,Working,1,Steel,
+2,2025-12-27-17-53-07-029,TOP,,,,,,Working,1,Steel,
+3,2025-12-27-17-39-00-493,BOTTOM CASE,,,,,,Working,1,Steel,
