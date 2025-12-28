@@ -8,7 +8,11 @@ Schematic
 PCB
 <img width="583" height="562" alt="PCB" src="https://github.com/user-attachments/assets/123faf46-4930-4e25-a3f8-f6f47b1eb655" />
 
-How my 3d parts fit together
+how my all my parts will look after fitted and soldered
+<img width="489" height="457" alt="72719" src="https://github.com/user-attachments/assets/c198bfd2-42bf-4afd-843f-6eca2f56160e" />
+
+
+How my 3d printed parts fit together before all the components
 <img width="1346" height="1050" alt="image" src="https://github.com/user-attachments/assets/49248caf-2a05-4e6d-9cd5-a0504d66e94a" />
 
 BOM:
