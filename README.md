@@ -6,7 +6,8 @@ Schematic
 <img width="886" height="599" alt="Schematic" src="https://github.com/user-attachments/assets/cd99fe69-eee2-47ba-bd71-17129e9ff66d" />
 
 PCB
-<img width="583" height="562" alt="PCB" src="https://github.com/user-attachments/assets/123faf46-4930-4e25-a3f8-f6f47b1eb655" />
+<img width="1125" height="1118" alt="image" src="https://github.com/user-attachments/assets/43c94a04-6659-4326-aac1-3f162355159d" />
+
 
 
 How my 3d printed parts fit together before all the components
